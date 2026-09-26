@@ -1,0 +1,6 @@
+{
+  "name": "5-Star.AI — Reputation Management System",
+  "description": "5-Star.AI helps businesses invite genuine Google reviews, collect private feedback, and draft thoughtful replies while leaving customers in full control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
